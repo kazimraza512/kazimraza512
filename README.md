@@ -2,8 +2,7 @@
 
 ## About Me
 
-I'm a passionate 🚀, creative 🎨 and dedicated 💻 Full Stack Developer with a hands-on approach to problem-solving and an unending thirst for knowledge 🎓. I'm always open to new ideas and opportunities.
-
+I'm a passionate 🚀, creative 🎨 and dedicated 💻 Developer with a hands-on approach to problem-solving and an unending thirst for knowledge 🎓. I'm always open to new ideas and opportunities.
 
 <h1 align="center">Github Stats</h1>
 <p>
@@ -13,7 +12,7 @@ I'm a passionate 🚀, creative 🎨 and dedicated 💻 Full Stack Developer wit
   </a>
   
   <a href="https://github.com/kazimraza512/kazimraza512" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kazimraza512&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Your GitHub Stats" height="180px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kazimraza512&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Kazim's GitHub Stats" height="180px"/>
   </a>
   
 </p>
@@ -57,7 +56,8 @@ I'm a passionate 🚀, creative 🎨 and dedicated 💻 Full Stack Developer wit
 
 ## 📫 How to reach me
 
-- 📸 Instagram: [@kazim_ali_raza](https://www.instagram.com/kazim_ali_raza?igsh=Z2c0cHRocG5scmxj&utm_source=qr)
+- 💼 LinkedIn: [Kazim Raza](https://www.linkedin.com/in/kazim-raza-17a940279/)
+- 📷 Instagram: [@kazim_ali_raza](https://www.instagram.com/kazim_ali_raza?igsh=Z2c0cHRocG5scmxj&utm_source=qr)
 - 📧 Email: kazimaliraza51472@gmail.com
 - 🌐 Portfolio: [kazim-raza.framer.website](https://kazim-raza.framer.website)
 
@@ -69,7 +69,7 @@ I'm a passionate 🚀, creative 🎨 and dedicated 💻 Full Stack Developer wit
 
 ## ⚡ Fun fact
 
-fcuk coding
+[Add a fun fact about yourself here!]
 
 ---
 
