@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate 🚀, creative 🎨 and dedicated 💻 Developer with a hands-on approach to problem-solving and an unending thirst for knowledge 🎓. I'm always open to new ideas and opportunities.
+I'm a passionate 🚀, creative 🎨 and dedicated 💻Full Stack Developer with a hands-on approach to problem-solving and an unending thirst for knowledge 🎓. I'm always open to new ideas and opportunities.
 
 <h1 align="center">Github Stats</h1>
 <p>
@@ -69,7 +69,7 @@ I'm a passionate 🚀, creative 🎨 and dedicated 💻 Developer with a hands-o
 
 ## ⚡ Fun fact
 
-[Add a fun fact about yourself here!]
+Fcuk Coding
 
 ---
 
